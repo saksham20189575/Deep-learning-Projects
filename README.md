@@ -4,4 +4,6 @@ This repository contains various deep learning models with details of each model
 <img src="Screenshots/screenshot.jpg" width="250"> | <img src="Screenshots/screenshot2.jpg" width="250" height="250"> | <img src="Screenshots/screenshot1.jpg" width="250">
 <img src="Screenshots/src1.png" width="250" height="250"> | <img src="Screenshots/src2.png" width="250" height="250"> | <img src="Screenshots/src3.png" width="250" height="250">
 # Video of Credit/Debit Card Number Reader
-[![Video Link](src="Screenshots/src1.png" width="250" height="250")](https://youtu.be/a2sxceuVI6E)
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE"><img src="Screenshots/src2.png" alt="VIDEO LINK"></a>
+</div>
